@@ -103,3 +103,14 @@ a /= 12;
 b /= 4;
 c /= 11;
 
+
+//Declare String Variables
+var myFirstName;
+var myLastName;
+myFirstName = "Rakib";
+myLastName = "Hossain";
+
+//Escaping Literal Quotes in Strings
+var myStr = "I am a \"double quoted\" string inside \"double quotes\"."; //I am a "double quoted" string inside "double quotes".
+
+
